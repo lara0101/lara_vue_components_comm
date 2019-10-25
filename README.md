@@ -1,0 +1,2 @@
+# lara_vue_components_comm
+超实用的Vue组件通信方式大汇总实例代码
